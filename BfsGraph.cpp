@@ -97,7 +97,6 @@ int main()
     {
 
         cin >> a >> b;
-
         makeEdge(a, b);
 
     }
